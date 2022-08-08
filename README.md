@@ -1,6 +1,6 @@
 # System-Operator-System-Status-Reporting
 
-This repository demostrates the reporting of Transmission System data by the System Operator for a fictitious Interconnected Power System. 
+This repository demonstrates the reporting of Transmission System data by the System Operator for a fictitious Interconnected Power System. 
 
 ## Report Pages
 
